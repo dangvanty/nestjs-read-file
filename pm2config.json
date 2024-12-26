@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "view_react",
+      "script": "dist/main.js",
+      "watch": false,
+      "autorestart": true
+    }
+  ]
+}
